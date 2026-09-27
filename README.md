@@ -57,13 +57,10 @@ function toggleTheme() {
 
 ### 4. What did I learn?
 
-- How to use **HTML, CSS, JS** together for EXP:
-
-
-
-
-
-
-
+- How to use HTML, CSS, and JS together. **EXP: Structuring with HTML, styling with CSS, and adding buttons/functions with JS**.
+- How to use ⁠position: in CSS for the theme button.
+- How to toggle classes in JavaScript⁠.
+- How to upload my files project on GitHub and manage.
+- I learn what we use README.md for and Markdown.
 
 **Note:** I chose to use English to explain this project because it is easier for me to express my thoughts in my own words this way!
