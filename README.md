@@ -27,8 +27,33 @@ alert("Welcome!");
  ```
  This use for create a button then triggers when user clicked.
 
-- CSS: Used for decorating the website like colors, themes, or buttons.
-- JavaScript: Used for running commands, functions, and interactive features
+- **CSS:** Used for decorating the website like colors, themes.
+
+**EXP: Define light mode (default) and dark mode styles with a smooth color transition.**
+```css
+/* Default Light Mode */
+body {
+    background-color: #f8f9fa;
+    color: #212529;
+    transition: 0.3s;
+}
+
+/* Dark Mode */
+.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+```
+
+- **JavaScript:** Used for running commands, functions, and interactive features.
+
+**EXP: this is how I use CSS to toggle the dark-mode**
+```Javascript
+function toggleTheme() {
+    document.body.classList.toggle("dark-mode");
+}
+```
+
 
 ### 4. What did I learn?
 - How to use **HTML, CSS, JS** together for EXP:
