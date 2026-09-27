@@ -56,8 +56,14 @@ function toggleTheme() {
 
 
 ### 4. What did I learn?
+
 - How to use **HTML, CSS, JS** together for EXP:
-- 
 
 
 
+
+
+
+
+
+**Note:** I chose to use English to explain this project because it is easier for me to express my thoughts in my own words this way!
