@@ -1,0 +1,158 @@
+
+/*Tital*/
+h1 {
+
+text-align:  center;/*text position*/
+background-color: #3b61c8;
+    color: rgb(248, 250, 255);/*set the text color*/
+    padding: 12px 28px; /* add inner padding (12px topp:bottom)(28px front:back)*/
+
+    border: none;
+    border-radius: 10px;
+} 
+
+/* "About thailand" */
+h2 {   
+display: inline-block; /* make it fit to the text (the corner)*/
+background-color: #3b61c8;
+background-color: #ae3bc8;
+    color: white;
+    padding: 12px 28px;
+    font-size: 22px;
+    border: none;
+    border-radius: 10px;
+
+    cursor: pointer;
+    margin: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
+}
+
+/* "Choses the Region text" */
+h3{
+background-color: #c14f3b;
+    color: #eeeeee;
+    padding: 12px 28px;
+    font-size: 22px;
+    border: none;
+    border-radius: 10px;
+}
+
+/*Pharagraph*/
+p {
+    padding: 1px 13px;
+    font-size: 14;
+}
+
+/* Netsiden background*/
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #fdfdf6; 
+    color: #242323;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/*'______________________________________________________________________________________________________________'*/
+
+/*Dark Mode*/
+/* Light Mode (Default) */
+body {
+    text-align: center;/*text position*/
+    font-family: Arial, sans-serif;/*FONT STYLE*/
+    background-color: #f8f9fa; /*the nomal background (of the website)*/
+    color: #212529;/*font colour*/
+
+    margin: 0;
+    padding: 20px;
+    transition: background-color 0.3s, color 0.3s;/*time*/
+}
+
+/* Dark Mode */
+.dark-mode { /*trigger for the Darkmode class */
+    background-color: #121212;/*BG color for website in darkmode*/
+    color: #e0e0e0; /*the font*/
+}
+
+/* Theme Toggle Button */
+.theme-btn {
+    position: absolute; /*make the buttom can change position*/
+
+    top: 5px;          
+    right: 20px;   
+
+    z-index: 1000; /*on the topp*/ 
+
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: bold;
+
+    cursor: pointer;/*change the mounse when pointing on buttom*/
+    border-radius: 20px;
+
+    border: 2px solid #6c757d;
+    background-color: #ffffff;
+    color: #212529;
+    transition: 0.3s;
+    margin-bottom: 20px;
+}
+/*hover*/
+.theme-btn:hover {
+    background-color: #e2e6ea;
+}
+
+
+
+
+/* Theme Button in Dark Mode */
+.dark-mode .theme-btn {
+    background-color: #2c2c2c;
+    color: #ffffff;
+    border-color: #555;
+}
+
+/* Image Styling */
+img {
+    border-radius: 12px;
+    margin-top: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Button Style */
+button {
+    padding: 8px 16px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 6px;
+    border: none;
+    background-color: #0d6efd;
+    color: white;
+    font-size: 14px;
+}
+
+button:hover {
+    background-color: #0b5ed7;
+}
+
+/*'______________________________________________________________________________________________________________'*/
+
+/*this is desigh for bottom the region one*/
+button {
+    background-color: #7d0bf6;
+    color: white;
+    padding: 12px 28px;
+    font-size: 16px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    margin: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
+}
+/*hover*/
+button:hover {
+    background-color: #470b65;
+    transform: translateY(-3px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+}
+
