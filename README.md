@@ -20,11 +20,12 @@ alert("Welcome!");
 
 ### 3. How code works
 - **HTML:** Used for building the structure of the website.
-  **EXP: how I use HTML in this project(Theme switcher)**
-  ```html
-  <button onclick="toggleTheme()" class="theme-btn"> Dark/Light Mode </button>
-  ```
-  This use for create a button then triggers when user clicked.
+
+**EXP: how I use HTML in this project(Theme switcher)**
+ ```html
+ <button onclick="toggleTheme()" class="theme-btn"> Dark/Light Mode </button>
+ ```
+ This use for create a button then triggers when user clicked.
 
 - CSS: Used for decorating the website like colors, themes, or buttons.
 - JavaScript: Used for running commands, functions, and interactive features
