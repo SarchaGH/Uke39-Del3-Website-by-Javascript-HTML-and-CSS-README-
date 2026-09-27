@@ -12,14 +12,12 @@ In this website will show 6 region of Thailand (*Central, Northern, Northeast/Is
 - Light and dark mode button, this button help user to change them of the website between Light and Dark mode by clicking on the button
 - Region button, those button will bring user to the **Google Map** of the region that user clicking it also hover in this button  
 - Alert! I made the easy future that greeting the user when entering the website
+
 **Alert EXP.**
   ```Javascript
-  alert 
-
-
+alert("Welcome!");
   ```
-
-
+### 3.qwrty
 
 
 
