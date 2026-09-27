@@ -44,14 +44,6 @@ p {
     font-size: 14;
 }
 
-/* Netsiden background*/
-body {
-    text-align: center;
-    font-family: Arial, sans-serif;
-    background-color: #fdfdf6; 
-    color: #242323;
-    transition: background-color 0.3s, color 0.3s;
-}
 
 /*'______________________________________________________________________________________________________________'*/
 
