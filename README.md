@@ -17,7 +17,12 @@ In this website will show 6 region of Thailand (*Central, Northern, Northeast/Is
   ```Javascript
 alert("Welcome!");
   ```
-### 3.qwrty
+### 3. How code works
+- **HTML:** use for construction the website, 
+- **CSS:** use for decollating the website like color, them or button, 
+- **Javascript:** use for use a command, function and more
+
+### 4. What did I learn?
 
 
 
@@ -27,4 +32,4 @@ alert("Welcome!");
 
 
 
-**Sorry** for that I use English to explain this project, because it easier for me to explain this in my own word by using English as well!. thankyou! Saran Cha.
+**Sorry** for that I use English to explain this project, because it easier for me to explain this by my own word by using English as well!. thankyou! Saran Ch.
