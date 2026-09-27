@@ -15,23 +15,6 @@ document.write("<p>Discover the wonder of <b>Thailand</b>—where ancient tradit
 document.write("<p>Explore golden temples, pristine islands, vibrant night markets,</p>");
 document.write("<p>and mouth-watering cuisine. Start your journey today and create memories that last a lifetime!</p>");
 
-
-/*
-document.write("<br><br>")
-document.write("<h3><b>Choses the Region!</b></h>");
-document.write("<br><br>")
-
-
- //######################################################################################################//
-/*
-let regionOptions =[
-  "Northen",
-  "Southern",
-  "Central",
-  "Northeastern",
-  "Eastern",
-  "Western"
-];
  
 /*
   //#######This is just exp.########//
